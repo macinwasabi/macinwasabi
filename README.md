@@ -1,16 +1,27 @@
-### Hi there 👋
+### はじめまして、わさびです。
 
-<!--
-**macinwasabi/macinwasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macinwasabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+以下を学んできたり、学んでたりします。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- バックエンド
+  - Java(仕事はこれ)
+    - SpringBoot
+    - Seasar2
+  - Python
+  - 以下は遠い記憶
+    - C
+    - BASIC
+    - FORTRAN
+    - Maple
+- フロントエンド(まだまだ初歩レベル)
+  - HTML
+  - CSS
+  - Javascript
+- DB(まだまだ初歩レベル)
+  - MySQL
+  - Oracle
+- インフラ(まだまだ初歩レベル)
+  - ラズパイやMac miniで宅内サーバーを建てている程度
+  - AWS
+- 数学(大学院では代数的位相幾何をやってました。)
